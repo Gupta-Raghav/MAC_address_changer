@@ -1,5 +1,5 @@
 # MAC_address_changer
-This is a project work i started in order to learn python while creating ethical hacking tools and this is my first project on that journey! 
+This is a project work i started in order to skill up in python while creating ethical hacking tools and this is my first project on that journey! 
 
 This foundations of this project comes from the ifconig commands offered by the linux. 
 I have used supprocess to run those commans in python. 
