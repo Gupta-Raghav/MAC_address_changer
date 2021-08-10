@@ -14,7 +14,7 @@ The current mac address is extracted using RegEx.
 
 You can input either interfaces as you like i.e. eth0 or Wlan0.
 
-P.s. This is a very basic level project hence the code is pretty naive for anyone to understand.
+P.s. This is a very basic level project hence the code is pretty naive and easy for anyone to understand.
 
 **MAC_changer**
 ![image](https://user-images.githubusercontent.com/42888633/128905595-c34e5ba1-503e-4d38-8060-807a8c2be42a.png)
