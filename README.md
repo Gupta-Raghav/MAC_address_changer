@@ -21,7 +21,10 @@ P.s. This is a very basic level project hence the code is pretty naive for anyon
 
 **Error detection**
 ![image](https://user-images.githubusercontent.com/42888633/128905716-e520904c-0d22-4f6f-9240-e3e77f7760f7.png)
+
 ![image](https://user-images.githubusercontent.com/42888633/128905794-06de37ba-c32e-4204-8afd-d2229e13b65a.png)
 
+
 **Help option**
+
 ![image](https://user-images.githubusercontent.com/42888633/128905965-3257fa76-a377-43ea-93b2-29395ab9b895.png)
